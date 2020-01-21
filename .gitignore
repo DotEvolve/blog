@@ -87,3 +87,10 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# dotenv environment variables file	
+.env	
+
+# IDE files
+.idea/
+.vs/
