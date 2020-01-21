@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "dotblog",
+    "public": "docs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
